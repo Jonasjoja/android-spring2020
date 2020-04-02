@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseLoginDemo</string>
+    <string name="facebook_app_id">your_key</string>
+    <string name="fb_login_protocol_scheme">fbyour_key</string>
+</resources>
